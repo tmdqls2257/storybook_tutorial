@@ -1,9 +1,3 @@
-// src/lib/redux.js
-
-// task의 state를 변경하는 동작에 대응하는 간단한 Redux 저장소를 구성
-
-// A simple redux store/actions/reducer implementation.
-// A true app would be more complex and separated into different files.
 import { createStore } from 'redux'
 
 // The actions are the "names" of the changes that can happen to the store
