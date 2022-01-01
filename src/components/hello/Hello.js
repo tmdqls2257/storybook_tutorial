@@ -6,3 +6,4 @@ export default function Hello({ name, big }) {
   }
   return <p>Hello</p>
 }
+
